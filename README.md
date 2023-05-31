@@ -29,4 +29,3 @@ Para o "veriTech" será necessária a instalação da biblioteca do Python chama
 <img src="https://i.gifer.com/origin/62/62c9efed81a1702aee57707d5d91f985_w200.gif"><br>
 pip install builtwith<br>
 <img src="https://i.gifer.com/origin/62/62c9efed81a1702aee57707d5d91f985_w200.gif"><br>
-<img src="https://pa1.narvii.com/6751/fd7e48c90686ea8c9c8f5626060fa74bb27acdf1_hq.gif">
