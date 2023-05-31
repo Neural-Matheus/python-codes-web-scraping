@@ -1,6 +1,6 @@
 # python-codes-web-scraping
 Códigos básicos em Python para a verificação das tecnologias usadas, dono, servidores e e-mail's.<br>
-<img src="https://media.tenor.com/kQ6QxWJYTQ4AAAAC/rgb.gif"<br>
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0398.gif"><br>
 
 Código 1: 
 Este código utiliza a biblioteca whois para realizar web scraping e obter informações sobre o dono ou empresa do site fornecido.
@@ -8,7 +8,7 @@ Este código utiliza a biblioteca whois para realizar web scraping e obter infor
 A função veriOwwner recebe como entrada um site desejado e retorna informações sobre o site, incluindo detalhes sobre o proprietário ou empresa. O código utiliza a função whois.whois(site) para analisar o site e obter as informações desejadas. Em seguida, as informações são retornadas pela função.
 
 O código solicita ao usuário que insira o site desejado, incluindo o link completo. Em seguida, chama a função veriOwwner passando o site fornecido pelo usuário como argumento e imprime as informações resultantes.<br>
-<img src="https://media.tenor.com/kQ6QxWJYTQ4AAAAC/rgb.gif"><br>
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0398.gif"><br>
 
 Código 2:
 Este código utiliza a biblioteca builtwith para realizar web scraping e verificar as tecnologias utilizadas em um determinado site.
