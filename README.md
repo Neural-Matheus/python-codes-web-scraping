@@ -17,7 +17,7 @@ A função verification recebe como entrada um site desejado e retorna as tecnol
 
 O código solicita ao usuário que insira o site desejado, incluindo o link completo. Em seguida, chama a função verification passando o site fornecido pelo usuário como argumento e imprime as tecnologias resultantes.
 
-<img src="https://media.tenor.com/kQ6QxWJYTQ4AAAAC/rgb.gif"><br>
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0398.gif"><br>
 
 Para o "veriOwner" será necessária a instalação da biblioteca do Python chamada "Who Is", o comando para instalar é o seguinte:
 <img src="https://i.gifer.com/origin/62/62c9efed81a1702aee57707d5d91f985_w200.gif"><br>
