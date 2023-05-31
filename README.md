@@ -1,31 +1,38 @@
-# python-codes-web-scraping
-Códigos básicos em Python para a verificação das tecnologias usadas, dono, servidores e e-mail's.<br>
-<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0398.gif"><br>
+# Códigos para Web Scraping
 
-Código 1: 
-Este código utiliza a biblioteca whois para realizar web scraping e obter informações sobre o dono ou empresa do site fornecido.
+Este repositório contém códigos básicos em Python para a verificação das tecnologias usadas, dono, servidores e e-mails de um site.
 
-A função veriOwwner recebe como entrada um site desejado e retorna informações sobre o site, incluindo detalhes sobre o proprietário ou empresa. O código utiliza a função whois.whois(site) para analisar o site e obter as informações desejadas. Em seguida, as informações são retornadas pela função.
+## Código 1: Verificação do dono do site
 
-O código solicita ao usuário que insira o site desejado, incluindo o link completo. Em seguida, chama a função veriOwwner passando o site fornecido pelo usuário como argumento e imprime as informações resultantes.<br>
-<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0398.gif"><br>
+Este código utiliza a biblioteca `whois` para realizar web scraping e obter informações sobre o dono ou empresa do site fornecido.
 
-Código 2:
-Este código utiliza a biblioteca builtwith para realizar web scraping e verificar as tecnologias utilizadas em um determinado site.
+### Como usar
 
-A função verification recebe como entrada um site desejado e retorna as tecnologias utilizadas nesse site. O código utiliza a função builtwith.parse(site) para analisar o site e obter as informações sobre as tecnologias utilizadas. Em seguida, as informações são retornadas pela função.
+1. Instale a biblioteca `python-whois` com o seguinte comando:
 
-O código solicita ao usuário que insira o site desejado, incluindo o link completo. Em seguida, chama a função verification passando o site fornecido pelo usuário como argumento e imprime as tecnologias resultantes.
+pip install python-whois
 
-<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0398.gif"><br>
+2. Execute o código fornecendo o site desejado como entrada.
 
-Para o "veriOwner" será necessária a instalação da biblioteca do Python chamada "Who Is", o comando para instalar é o seguinte:
-<img src="https://i.gifer.com/origin/62/62c9efed81a1702aee57707d5d91f985_w200.gif"><br>
-pip install python-whois<br>
-<img src="https://i.gifer.com/origin/62/62c9efed81a1702aee57707d5d91f985_w200.gif"><br>
-<img src="https://pa1.narvii.com/6751/fd7e48c90686ea8c9c8f5626060fa74bb27acdf1_hq.gif"><br>
+## Código 2: Verificação das tecnologias usadas no site
 
-Para o "veriTech" será necessária a instalação da biblioteca do Python chamada de "Builtwith", o comando para instalar é o seguinte:
-<img src="https://i.gifer.com/origin/62/62c9efed81a1702aee57707d5d91f985_w200.gif"><br>
-pip install builtwith<br>
-<img src="https://i.gifer.com/origin/62/62c9efed81a1702aee57707d5d91f985_w200.gif"><br>
+Este código utiliza a biblioteca `builtwith` para realizar web scraping e verificar as tecnologias utilizadas em um determinado site.
+
+### Como usar
+
+1. Instale a biblioteca `builtwith` com o seguinte comando:
+
+2. Execute o código fornecendo o site desejado como entrada.
+
+## Dependências
+
+Certifique-se de ter as seguintes bibliotecas instaladas:
+
+- [python-whois](https://pypi.org/project/python-whois/)
+- [builtwith](https://pypi.org/project/builtwith/)
+
+## Contribuindo
+
+Fique à vontade para contribuir com melhorias para este repositório! Se você encontrar algum problema ou tiver alguma sugestão, abra uma [issue](https://github.com/zackkz/python-codes-web-scraping/edit/main/README.md) ou envie um [pull request](https://github.com/zackkz/python-codes-web-scraping/edit/main/README.md).
+
+Agradeço antecipadamente pelo seu apoio!
